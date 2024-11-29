@@ -1,5 +1,5 @@
 const SpotifyPlugin: any = {
-  id: 'vortexapp-plugins-base',
+  id: 'vortexmusic-plugins-base',
   name: 'Base Template Plugin',
   async initialize() {
     console.log('Base Template Plugin initialized.');

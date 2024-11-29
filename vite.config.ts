@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 export default defineConfig({
     build: {
         lib: {
-            name: 'vortexapp-plugin-base',
+            name: 'vortexmusic-plugin-base',
             entry: './src/index.ts',
             fileName: 'index',
         },
